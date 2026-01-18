@@ -1,0 +1,24 @@
+{
+  "name": "Shree Datta Enterprises - Inventory Management",
+  "short_name": "Shree Datta",
+  "description": "Professional inventory management system with barcode generation and scanning",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/Screenshot 2025-12-02 181035.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Screenshot 2025-12-02 181035.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
