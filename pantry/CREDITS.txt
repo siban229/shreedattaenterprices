@@ -1,0 +1,57 @@
+Pantry photography credits
+========================
+These six photographs show representative ingredients. The za’atar is an example
+of a mixed seasoning; it is not a photograph of a proprietary recipe.
+
+onion-flakes.webp | Dried minced onion flakes
+“grinding onion flakes” — Joel Kramer (Joelk75), Flickr.
+Source: https://www.flickr.com/photos/75001512@N00/3132329286/
+Licence: Creative Commons Attribution 2.0 Generic (CC BY 2.0)
+https://creativecommons.org/licenses/by/2.0/
+Changes: Cropped the original to the dried flakes in the mortar; exported as WebP.
+
+tomato-powder.webp | Dried tomato powder
+“Red matcha” — Kent Wang, Flickr. The photographer identifies the dry red
+ingredient in this frame as tomato powder; it is pictured before mixing.
+Source: https://www.flickr.com/photos/kentwang/24183515393/
+Licence: Creative Commons Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)
+https://creativecommons.org/licenses/by-sa/2.0/
+Changes: Cropped to the loose powder in the ceramic vessel, resized and
+converted to WebP. This local version is also licensed under CC BY-SA 2.0.
+
+spinach-powder.webp | Freeze-dried spinach leaf powder
+Figure 1, DML sample, from “Effects of Wet and Dry Micronization on the GC-MS
+Identification of the Phenolic Compounds and Antioxidant Properties of
+Freeze-Dried Spinach Leaves and Stems,” Molecules 27 (2022), 8174.
+© 2022 Renata Różyło, Jolanta Piekut, Dariusz Dziki, Marzena Smolewska,
+Sławomir Gawłowski, Agnieszka Wójtowicz and Urszula Gawlik-Dziki.
+Source: https://doi.org/10.3390/molecules27238174
+Figure: https://mdpi-res.com/d_attachment/molecules/molecules-27-08174/article_deploy/html/images/molecules-27-08174-g001.png
+Licence: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+Changes: Cropped the lower-left dish (dry-micronized leaf powder) from the
+authors’ figure, omitting the label and the other samples; exported as WebP.
+
+mango-slices.webp | Dried mango slices
+“Dried mangoes.jpg” — Adrian Michael (attribution on Commons: “I, Parpan05”).
+Source: https://commons.wikimedia.org/wiki/File:Dried_mangoes.jpg
+Selected licence: Creative Commons Attribution-ShareAlike 3.0 Unported
+(CC BY-SA 3.0), https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Slightly cropped the vertical margins, resized and converted to WebP.
+This local version is also licensed under CC BY-SA 3.0.
+
+garlic-granules.webp | Dried garlic granules
+“Dry, Food, Spices” (photo 3331958) — Enotovyj, Pixabay.
+Source: https://pixabay.com/photos/dry-food-spices-garlic-3331958/
+Licence: Pixabay Content License (not a Creative Commons licence).
+Summary: https://pixabay.com/service/license-summary/
+Terms: https://pixabay.com/service/terms/
+Changes: Cropped the sides of the macro photograph, resized and converted to WebP.
+
+custom-blend.webp | Example spice blend: za’atar
+“ZaatarbyGassan.jpg” — Sjschen, Wikimedia Commons. The photographer identifies
+this as a za’atar mix made to G. Massarweh’s recipe.
+Source: https://commons.wikimedia.org/wiki/File:ZaatarbyGassan.jpg
+Licence: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+Changes: Resized the photograph and converted it to WebP.
